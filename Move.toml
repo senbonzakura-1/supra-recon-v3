@@ -1,0 +1,6 @@
+[package]
+name = "Recon"
+version = "0.0.1"
+[dependencies]
+[addresses]
+recon = "0x1"

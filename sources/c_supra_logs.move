@@ -1,0 +1,1 @@
+/supra/configs/supra_node_logs
